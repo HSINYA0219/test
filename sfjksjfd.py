@@ -1,1 +1,1 @@
-print('社長好棒baga')
+print('社長好棒')
